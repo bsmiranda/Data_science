@@ -14,8 +14,8 @@ This training includes Data Science, Machine Learning, SQL with Microsoft SQL Se
 **Starting with Data Science:** Learning to load a real-world data set, doing data analysis in an exploratory way using Searborn, Matplotlib, SciPy and Pandas.
 
 [1_Analyzing_Movie_Data.ipynb](https://github.com/bsmiranda/Data_science/blob/master/1_Analyzing_Movie_Data.ipynb "1_Analyzing_Movie_Data.ipynb")
+[2_Database.ipynb](https://github.com/bsmiranda/Data_science/blob/master/2_Database.ipynb "2_Database.ipynb")
 
-[Created with Colaboratory](https://github.com/bsmiranda/Data_science/commit/a149daba928e7cb1bfa0c432a44bb231583bebf3 "Created with Colaboratory")
 
 **Data Science models:** Working with time series and analyzing data in a practical and realistic way. Use of linear regression techniques to demonstrate the impacts of variables made available in a dataset.
 
