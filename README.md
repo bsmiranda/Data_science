@@ -17,6 +17,8 @@ This training includes Data Science, Machine Learning, SQL with Microsoft SQL Se
 
 [2_Database.ipynb](https://github.com/bsmiranda/Data_science/blob/master/2_Database.ipynb "2_Database.ipynb")
 
+[3_Types_of_real_estate.ipynb](https://github.com/bsmiranda/Data_science/blob/master/3_Types_of_real_estate.ipynb "3_Types_of_real_estate.ipynb")
+
 
 **Data Science models:** Working with time series and analyzing data in a practical and realistic way. Use of linear regression techniques to demonstrate the impacts of variables made available in a dataset.
 
