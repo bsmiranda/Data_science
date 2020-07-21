@@ -25,6 +25,8 @@ This training includes Data Science, Machine Learning, SQL with Microsoft SQL Se
 
 [6_Treatment_of_Missing_Data.ipynb](https://github.com/bsmiranda/Data_science/blob/master/6_Treatment_of_Missing_Data.ipynb "6_Treatment_of_Missing_Data.ipynb")
 
+[7_Creating_new_variables.ipynb](https://github.com/bsmiranda/Data_science/blob/master/7_Creating_new_variables.ipynb "7_Creating_new_variables.ipynb")
+
 
 **Data Science models:** Working with time series and analyzing data in a practical and realistic way. Use of linear regression techniques to demonstrate the impacts of variables made available in a dataset.
 
